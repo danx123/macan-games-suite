@@ -1,7 +1,8 @@
-# Macan Games Suite v2.0.0
+# Macan Games Suite v2.1.0
 
 A comprehensive collection of classic games reimagined with modern features and polished gameplay. The Macan Games Suite brings together six beloved game genres into one unified package.
-<img width="3424" height="4200" alt="macan-games-suite-v2" src="https://github.com/user-attachments/assets/837e084f-2647-46bd-99ca-4ecf455125b3" />
+<img width="3424" height="4200" alt="macan-games-suite-v210" src="https://github.com/user-attachments/assets/bd8ecd0e-247d-440e-a29e-582544b28842" />
+
 
 
 
@@ -36,6 +37,11 @@ A unique simulation game that combines strategy and resource management in an im
 The timeless block-stacking puzzle game with modern visuals, responsive controls, and challenging gameplay.
 
 **Repository:** [macan-tetris-neo](https://github.com/danx123/macan-tetris-neo/releases)
+
+### 7. Macan Run Neo Edition
+A professional 2D platformer game
+
+**Repository:** [macan-run](https://github.com/danx123/macan-run/releases)
 
 ## 📦 Distribution Notice
 
