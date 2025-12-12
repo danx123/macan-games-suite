@@ -70,13 +70,6 @@ A professional 2D platformer game
 - **Intuitive Controls** - Easy-to-learn interfaces for all skill levels
 - **Regular Updates** - Continuous improvements and bug fixes
 
-## 📝 Version History
-
-### v2.0.0 (Current)
-- Complete suite package with all six games
-- Performance optimizations across all titles
-- Unified branding and presentation
-- Binary distribution model
 
 ## 🤝 Contributing
 
