@@ -1,4 +1,4 @@
-# Macan Games Suite v2.1.0
+# Macan Games Suite
 
 A comprehensive collection of classic games reimagined with modern features and polished gameplay. The Macan Games Suite brings together six beloved game genres into one unified package.
 <img width="3424" height="4200" alt="macan-games-suite-v210" src="https://github.com/user-attachments/assets/bd8ecd0e-247d-440e-a29e-582544b28842" />
