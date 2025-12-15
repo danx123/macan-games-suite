@@ -70,7 +70,7 @@ Journey through ancient temples, destroying chains of magical orbs before they r
 
 ## 🎯 Features
 
-- **Seven Complete Games** - A diverse collection covering multiple genres
+- **Eight Complete Games** - A diverse collection covering multiple genres
 - **Standalone Executables** - No installation required, just download and play
 - **Optimized Performance** - Smooth gameplay on modern systems
 - **Intuitive Controls** - Easy-to-learn interfaces for all skill levels
