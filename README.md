@@ -43,6 +43,12 @@ A professional 2D platformer game
 
 **Repository:** [macan-run](https://github.com/danx123/macan-run/releases)
 
+### 8. Ancient Tiger
+Journey through ancient temples, destroying chains of magical orbs before they reach the portal. Match 3 or more orbs of the same color to destroy them and build powerful combo chains
+
+**Repository:** [macan-run](https://github.com/danx123/ancient-tiger/releases)
+
+
 ## 📦 Distribution Notice
 
 **Important:** This suite repository distributes only the compiled binary executables (.exe files) for Windows. The source code for each individual game is maintained in separate repositories linked above.
