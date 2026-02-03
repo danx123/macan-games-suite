@@ -87,7 +87,7 @@ While this repository contains only binary distributions, contributions to indiv
 
 ## 📄 License
 
-© 2025 - Macan Angkasa
+© 2026 - Macan Angkasa
 
 Each game in the Macan Games Suite is licensed separately. Please refer to the individual game repositories for specific licensing information.
 
@@ -95,7 +95,7 @@ Each game in the Macan Games Suite is licensed separately. Please refer to the i
 
 - **Main Repository:** [macan-games-suite](https://github.com/danx123/macan-games-suite/releases)
 - **Developer:** Macan Angkasa
-- **Release Date:** 2025
+- **Release Date:** 2026
 
 ## 📧 Support
 
